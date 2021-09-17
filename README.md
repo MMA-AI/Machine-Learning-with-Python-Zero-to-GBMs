@@ -1,5 +1,6 @@
 # Machine-Learning-with-Python-Zero-to-GBMs
-jovian.ai
+
+# jovian.ai
 
 "Machine Learning with Python: Zero to GBMs" is a practical and beginner-friendly introduction to supervised machine learning, decision trees, and gradient boosting using Python. This is a self-paced course where you can:
 
